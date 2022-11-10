@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>Made by JSDM. I swear!</p>
+    <p>Made by JSDM. I swear! Hope it works now...</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
